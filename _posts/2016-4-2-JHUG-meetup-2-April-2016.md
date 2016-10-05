@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JHUG meetup 2 April 2016
+title: JHUG meetup April 2nd 2016
 ---
 
 After a silent 2015, [JHUG](http://www.jhug.gr/) made a strong comeback on Saturday, 2nd of April at the [Orange Grove](http://orangegrove.biz/). We were happy to have new people coming in, in addition to the familiar faces of older members. All in all, around 50 people attended the meetup, and that was a very nice surprise. Also, this was the first ever recorded JHUG meetup, so people who couldn't attend can still watch the presentations.
