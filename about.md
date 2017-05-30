@@ -8,7 +8,7 @@ I am a software Engineer. I currently work for [Workable](https://www.workable.c
 
 ### More Information
 
-Stand back, I know regular expressions!
+Everybody stand back, I know regular expressions!
 
 ### Contact me
 
