@@ -1,10 +1,9 @@
 ---
 layout: home
-title: Home
+author_profile: true
+title: "Welcome"
 ---
 
-Welcome to my personal website.
+I'm Markos Fragkakis, a Software Engineer based in Athens, Greece.
 
-I'm Markos Fragkakis, a Software Engineer.
-
-Feel free to check out my [blog](/blog/) or learn more [about me](/about/).
+This is my personal website where I share thoughts and projects.

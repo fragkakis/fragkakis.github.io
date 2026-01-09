@@ -1,46 +1,96 @@
 # Site settings
-title: Markos Fragkakis
-description: Software Engineer
+locale: "en-US"
+title: "Markos Fragkakis"
+subtitle: "Software Engineer"
+name: "Markos Fragkakis"
+description: "Personal website and blog"
 url: "https://fragkakis.org"
 baseurl: ""
+repository: "fragkakis/fragkakis.github.io"
 
 # Theme
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "default"
 
 # Author
 author:
-  name: Markos Fragkakis
-  email: ""
+  name: "Markos Fragkakis"
+  avatar: "/images/fragkakis.jpg"
+  bio: "Software Engineer"
+  location: "Athens, Greece"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/fragkakis"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/fragkakis"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/fragkakis"
 
-# Social links (displayed in footer)
-minima:
-  social_links:
-    - { platform: github, user_url: "https://github.com/fragkakis" }
-    - { platform: twitter, user_url: "https://twitter.com/fragkakis" }
-    - { platform: linkedin, user_url: "https://linkedin.com/in/fragkakis" }
+# Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/fragkakis"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/fragkakis"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/fragkakis"
 
-# Header navigation pages
-header_pages:
-  - about.md
-  - blog.md
-  - projects.md
+# Reading files
+include:
+  - _pages
 
-# Google Analytics
-google_analytics: UA-75124530-1
-
-# Permalink structure
+# Build settings
+markdown: kramdown
 permalink: /:title/
 
-# Markdown settings
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: 'highlight'
+# Pagination
+paginate: 5
+paginate_path: /blog/page:num/
+
+# Search
+search: true
+search_provider: lunr
+
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-75124530-1"
 
 # Plugins
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-feed
+  - jekyll-include-cache
+
+# Front Matter Defaults
+defaults:
+  # Posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # Pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Exclude from build
 exclude:
