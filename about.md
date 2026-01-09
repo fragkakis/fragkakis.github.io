@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I am a software Engineer. I currently work for [Workable](https://www.workable.com).
+*This page is under construction.*
 
-### More Information
+I am Markos Fragkakis, a Software Engineer.
 
-Everybody stand back, I know regular expressions!
-
-### Contact me
-
-markos.fragkakis at gmail .com
+More content coming soon.
