@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: JHUG meetup November 28th 2017
 ---
 

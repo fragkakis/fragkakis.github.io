@@ -1,3 +1,8 @@
+---
+layout: single
+title: Voxxed Days Athens 2017
+---
+
 Today I attended [Voxxed Days Athens](https://voxxeddays.com/athens/) and had a great time. This post contains the quick notes I took at the talks I went to.
 
 ## The art of visualising software architecture (Simon Brown)
