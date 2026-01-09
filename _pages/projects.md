@@ -3,6 +3,8 @@ title: "Projects"
 permalink: /projects/
 ---
 
-*This page is under construction.*
+## Chronos
 
-A showcase of my projects will appear here soon.
+A browser-based game.
+
+[Play Chronos](https://chronos.fragkakis.org)
