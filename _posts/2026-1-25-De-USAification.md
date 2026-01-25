@@ -5,7 +5,7 @@ title: De-USAification
 
 How things have changed, looks like the USA is no longer a friend of Europe.
 
-This feels so strange. For as long as I remember, USA was a close ally. In this new world, the US accuses and mocks the EU for all sorts of things, wants to take over Greenland, and wants to take over Canada as well. If you haven't already, it's worth listening to the Canadian Prime Minister's [speech](https://www.youtube.com/watch?v=flsgJe8mN-A) at the World Economic Forum 2026.
+This feels so strange. For as long as I remember, USA was a close ally. In this new world, the US accuses and mocks the EU for all sorts of things, wants to take over Greenland, and wants to take over Canada as well. If you haven't already, it's worth listening to the Canadian Prime Minister's [speech](https://www.weforum.org/stories/2026/01/davos-2026-special-address-by-mark-carney-prime-minister-of-canada/) at the World Economic Forum 2026.
 
 Europe should use this situation as an opportunity to grow a spine and stand on its own feet.
 
