@@ -27,4 +27,4 @@ Here are some resources I plan to explore:
 
 This is by no means a simple endeavour, and I am also not sure how well it will go. The reason is that, digitally at least, most of us are tied up in one of the two ecosystems: iOS or Android. We use them for critical stuff, like email, photos, maps & navigation etc.
 
-There was some low hanging fruit I quickly picked up. Firefox for web browsing, and Mistral for daily LLM use. So far so good.
+There was some low hanging fruit I quickly picked up. Firefox for web browsing, and [Mistral.ai](https://mistral.ai/) for daily LLM use. So far so good.
