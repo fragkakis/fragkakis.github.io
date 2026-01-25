@@ -60,9 +60,9 @@ search_provider: lunr
 
 # Analytics
 analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-75124530-1"
+  # provider: "google-gtag"
+  # google:
+  #   tracking_id: "UA-75124530-1"
 
 # Plugins
 plugins:
