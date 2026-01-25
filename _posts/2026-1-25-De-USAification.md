@@ -3,11 +3,11 @@ layout: single
 title: De-USAification
 ---
 
-How things have changed, looks like that the USA is no longer a friend of Europe.
+How things have changed, looks like the USA is no longer a friend of Europe.
 
-This feels so strange. For as long as I remember, USA was a close ally. In this new world, the US accuses and mocks the EU for all sorts of things, want to take over Greenland, want to take over Canada as well. If you haven't, it's a good opportunity to listen to the PM of Canada [speaking](https://www.youtube.com/watch?v=flsgJe8mN-A) on the World Economic Forum 2026.
+This feels so strange. For as long as I remember, USA was a close ally. In this new world, the US accuses and mocks the EU for all sorts of things, wants to take over Greenland, and wants to take over Canada as well. If you haven't already, it's worth listening to the Canadian Prime Minister's [speech](https://www.youtube.com/watch?v=flsgJe8mN-A) at the World Economic Forum 2026.
 
-We should use this situation as an opportunity. Europe must grow back a spine and stand on it's feet.
+Europe should use this situation as an opportunity to grow a spine and stand on its own feet.
 
 While we are at it, over the next months, I will try to distance myself from USA-based products and move over to Europe-based stuff as much as possible. 
 
@@ -18,7 +18,7 @@ This is my preference:
 3. Rest of the world (non-USA)
 4. USA
 
-Some resources I will check out:
+Here are some resources I plan to explore:
 
 * [https://eualternative.eu/](https://eualternative.eu/)
 * [https://www.switch-to.eu/en](https://www.switch-to.eu/en)
