@@ -3,6 +3,12 @@ title: "Projects"
 permalink: /projects/
 ---
 
+## 💧 Reservoirs
+
+A web page showing "live" the volume of water in Athens' reservoirs.
+
+[Reservoirs](https://reservoirs.fragkakis.org)
+
 ## ⏱️ Chronos
 
 A browser-based game.
