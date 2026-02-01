@@ -3,6 +3,13 @@ title: "Projects"
 permalink: /projects/
 ---
 
+## ⚡ Energy
+
+A web page showing "live" the energy balance of Greece.
+
+[Energy](https://energy.fragkakis.org)
+
+
 ## 💧 Reservoirs
 
 A web page showing "live" the volume of water in Athens' reservoirs.
