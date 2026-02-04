@@ -3,6 +3,8 @@ title: "Projects"
 permalink: /projects/
 ---
 
+🚨 **[Crime](https://crime.fragkakis.org)** — Crime data for Greece (up to 2024).
+
 ⚡ **[Energy](https://energy.fragkakis.org)** — "Live" energy balance of Greece.
 
 💧 **[Reservoirs](https://reservoirs.fragkakis.org)** — "Live" water volume in Athens' reservoirs.
