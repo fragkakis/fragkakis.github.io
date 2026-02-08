@@ -79,6 +79,7 @@ defaults:
       comments: false
       share: true
       related: true
+      style: "background-color: #e6f2ff;"
   # Pages
   - scope:
       path: "_pages"
