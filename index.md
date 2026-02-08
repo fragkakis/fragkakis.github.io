@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#333"
+  overlay_color: "#0005a1"
   overlay_filter: 0.4
   actions:
     - label: "View Blog"
