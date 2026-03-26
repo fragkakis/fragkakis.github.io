@@ -3,6 +3,8 @@ title: "Projects"
 permalink: /projects/
 ---
 
+ 🇬🇷 **[History](https://history.fragkakis.org/)** — Simplified, interactive history viewer of modern Greece.
+
 🤖 **[AI Chat](https://www.railschat.org/)** — Open source ChatGPT clone made with Ruby on Rails.
 
 🚨 **[Crime](https://crime.fragkakis.org)** — Crime data for Greece (up to 2024).
