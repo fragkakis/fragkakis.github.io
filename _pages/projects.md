@@ -17,6 +17,6 @@ permalink: /projects/
 
 🎓 **[Vaseis.info](https://www.vaseis.info)** — Compare Greek university entry grades between schools and track trends over time.
 
-🚌 **[AthensBus.info](https://www.athensbus.info)** — See actual bus trips vs. official itineraries for Athens routes.
+🚌 **[AthensBus.info](https://github.com/fragkakis/athensbus)** — See actual bus trips vs. official itineraries for Athens routes.
 
 🍵 **[Matcha or Swamp](https://matchaorswamp.fragkakis.org)** — Guess which image is a swamp and which is matcha.
