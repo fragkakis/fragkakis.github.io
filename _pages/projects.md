@@ -3,6 +3,8 @@ title: "Projects"
 permalink: /projects/
 ---
 
+⚓ **[Kapetan Odysseas](https://kapetan-odysseas.fragkakis.org)** — A browser-based game: dock a ferry in real Greek ports.
+
  🇬🇷 **[History](https://history.fragkakis.org/)** — Simplified, interactive history viewer of modern Greece.
 
 🤖 **[AI Chat](https://www.railschat.org/)** — Open source ChatGPT clone made with Ruby on Rails.
