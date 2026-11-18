@@ -3,6 +3,8 @@ title: "Projects"
 permalink: /projects/
 ---
 
+🎉 **[PRty time](https://github.com/fragkakis/prty-time)** — Overview of your Github PRs on your Mac.
+
 ⚓ **[Kapetan Odysseas](https://kapetan-odysseas.fragkakis.org)** — A browser-based game: dock a ferry in real Greek ports.
 
 🇬🇷 **[History](https://history.fragkakis.org/)** — Simplified, interactive history viewer of modern Greece.
@@ -23,4 +25,3 @@ permalink: /projects/
 
 🍵 **[Matcha or Swamp](https://matchaorswamp.fragkakis.org)** — Guess which image is a swamp and which is matcha.
 
-🎉 **[PRty time](https://github.com/fragkakis/prty-time)** — Overview of your Github PRs on your Mac.
